@@ -1,4 +1,0 @@
-# HALs
-hal_attribute(lineage_livedisplay)
-hal_attribute(lineage_touch)
-hal_attribute(lineage_trust)

@@ -1,2 +1,2 @@
-# Required in order to set lineage.service.adb.root
+# Required in order to set havoc.service.adb.root
 set_prop(adbd, system_prop)
